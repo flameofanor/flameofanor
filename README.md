@@ -1,4 +1,11 @@
-## Hi there 👋
+## Howdy do 👋
+
+I'm currently working on my Electrical Engineering bachelors at University of Alaska Anchorage.
+I'm passionate about understanding how things work, physics, chaos theory, and quantum information processing.
+
+Contact: willcasholson@gmail.com
+
+Feel free to check out some of my repositories
 
 <!--
 **flameofanor/flameofanor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
