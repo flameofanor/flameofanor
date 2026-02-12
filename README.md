@@ -1,7 +1,9 @@
 ## Howdy do 👋
 
 I'm currently working on my Electrical Engineering bachelors at University of Alaska Anchorage.
-I'm passionate about understanding how things work, physics, chaos theory, and quantum information processing.
+I'm passionate about understanding how things work including: physics, chaos theory, and quantum information processing.
+
+I have a background in writing code, PCB circut design, and industrial automation systems.
 
 Contact: willcasholson@gmail.com
 
