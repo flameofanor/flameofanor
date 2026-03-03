@@ -3,7 +3,7 @@
 I'm currently working on my Electrical Engineering bachelors at University of Alaska Anchorage.
 I'm passionate about understanding how things work including: physics, chaos theory, and quantum information processing.
 
-I have a background in writing code, PCB circut design, and industrial automation systems.
+I have a background in writing code (the good ol fashioned way, not just Claude Code!), PCB circut design, and industrial automation systems.
 
 Contact: willcasholson@gmail.com
 
